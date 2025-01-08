@@ -38,7 +38,7 @@ and then after some search and teacher help i resolve this problem and then i de
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/Hussainaquib/Facial-Analysis-App.git
+  git clone https://github.com/Raj9051/Facial.git
   cd Facila-Analysis-App
 ```
 2. Install the dependencies:
