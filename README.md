@@ -22,11 +22,11 @@ The Streamlit Facial Analysis App is a simple web application that allows users 
 
 - 1st Phase (3 Jun 2023):
 In this phase of my project I make a project on jupyter notebook where I maually write a code on cell and provide a file path, there in no UI for my this project.
-[Link](https://github.com/Hussainaquib/DeepFace-Analysis-using-Python/blob/main/DeepFace%20Analysis%20without%20UI.ipynb)
+
 
 - 2nd Phase (22 Aug 2023):
 I improve my project and this time i use a tkinter for UI. But still my project is not publically available it means till 22 August 2023 deployment is not done.
-[Link](https://github.com/Hussainaquib/DeepFace-Analysis-using-Python/blob/main/DeepFace%20Analysis%20with%20UI.ipynb)
+
 
 - 3rd Phase (22 Sep 2023):
 I improve my project and deploy it on streamlit, still in this phase of my project i face a problem , the problem is .py file is locally run/work perfectly but after deployment it gives me an error 
@@ -65,4 +65,4 @@ Use this web app:
 
 
 ## Feedback
-If you have any feedback, please reach out to me at saquib9451@gmail.com
+If you have any feedback, please reach out to me at shubhamraj9051@gmail.com
